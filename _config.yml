@@ -4,7 +4,7 @@ blog_theme: light # Or use dark
 name: Blammo!
 paginate: 33
 url: onepathleft.com
-baseurl: 
+baseurl: https://github.com/gammacray/gammacray.github.io
 
 
 # Optional settings
