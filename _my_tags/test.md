@@ -1,4 +1,4 @@
 ---
-slug: #test
-name: #Test
+slug: test
+name: Test
 ---
