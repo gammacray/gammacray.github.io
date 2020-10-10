@@ -93,7 +93,7 @@
     font-size: 12px;
     color: $article-footer-color;
     text-transform: uppercase;
-    text-transform: italic;
+    text-transform: italic !important;
     vertical-align: middle;
   }
   a {
