@@ -1,4 +1,4 @@
 ---
-slug: mental health
-name: mental health
+slug: "mental health"
+name: "mental health"
 ---
