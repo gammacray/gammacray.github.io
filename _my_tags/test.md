@@ -1,4 +1,4 @@
 ---
 slug: test
-name: Test
+name: ["#Test"]
 ---
