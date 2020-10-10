@@ -1,4 +1,4 @@
 ---
-slug: "#Test"
-name: "#Test"
+slug: [#test]
+name: [#Test]
 ---
