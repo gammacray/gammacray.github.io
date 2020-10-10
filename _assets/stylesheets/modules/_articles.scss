@@ -96,6 +96,7 @@
     vertical-align: middle;
   }
   a {
+    text-transform: none;
     margin-right: 7.5px;
     color: $article-footer-link-color;
     &:hover {
