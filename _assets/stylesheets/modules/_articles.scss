@@ -57,7 +57,7 @@
 .article-list-item {
   a {
     text-decoration: none;
-    h5 {
+    h1 {
       position: relative;
       display: block;
       padding-right: 25px;
@@ -73,7 +73,7 @@
         transition: opacity $base-transition-speed linear;
       }
     }
-    &:hover h5 svg {
+    &:hover h1 svg {
       opacity: 1;
     }
   }
