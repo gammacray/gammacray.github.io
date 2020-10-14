@@ -1,1 +1,0 @@
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="gammacray" data-color="#FFFFFF" data-emoji=""  data-font="Ariel" data-text="Buy me a coffee?" data-outline-color="#000" data-font-color="#000" data-coffee-color="#ffa726" ></script>
