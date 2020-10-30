@@ -8,6 +8,13 @@
         </a>
       </li>
     {% endif %}
+    {% if site.hashtag_enabled == tags %}
+      <li>
+        <a href="{{ 'tags' | relative_url }}" title="Tags">
+          {% include svg-icon.html icon="hashtag" %}
+        </a>
+      </li>
+    {% endif %}
     {% if site.social.twitter %}
       <li>
         <a href="https://twitter.com/{{ site.social.twitter }}" rel="noreferrer noopener" target="_blank" title="Twitter">
@@ -54,13 +61,6 @@
       <li>
         <a href="https://stackoverflow.com/users/{{ site.social.stackoverflow }}" rel="noreferrer noopener" target="_blank" title="Stack Overflow">
           {% include svg-icon.html icon="stackoverflow" %}
-        </a>
-      </li>
-    {% endif %}
-    {% if site.social.tags %}
-      <li>
-        <a href="{{ 'tags' | relative_url }}" title="Tags">
-          {% include svg-icon.html icon="hashtag" %}
         </a>
       </li>
     {% endif %}
