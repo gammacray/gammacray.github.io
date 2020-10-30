@@ -1,7 +1,7 @@
 # Mandatory settings
 
 blog_theme: light # Or use dark
-name: Blammo!
+name: Gamma Cray
 paginate: 21
 url: onepathleft.com
 
@@ -14,10 +14,11 @@ discus_identifier:  # Add your Disqus identifier
 ga_analytics:  # Add your GA Tracking Id
 local_fonts: true # Change to true if you wish to use local fonts
 rss_enabled: false # Change to false if not
-scrollappear_enabled: true # Change to false to disable
-tag_nav_enabled: true # Change to true if you wish to show an additional 'tag-list' navigation below the header
+scrollappear_enabled: false # Change to false to disable
+tag_nav_enabled: false # Change to true if you wish to show an additional 'tag-list' navigation below the header
 theme_toggle: false # Change to true if you wish to show an icon in the navigation for dynamic theme toggling
 social:
+  tags: tags
   dribbble:  # Add your Dribbble handle
   facebook: # Add your Facebook handle
   flickr: # Add your Flickr handle
@@ -33,9 +34,9 @@ social:
   discord: # Add you Discord server invitation ID
   tumblr: # Add your Tumblr handle
   bitbucket: # Add your Bitbucket handle
-  docker: # Add your Docker Hub handle
+  docker: # Add thing here
   instagram: # Add your Instagram handle
-  keybase: # Add your Keybase handle
+  tags: # Bad attempt at tags
   medium: # Add your Medium handle
   spotify: # Add your Spotify handle
   stackoverflow: # Add your Stack Overflow ID number

@@ -57,10 +57,10 @@
         </a>
       </li>
     {% endif %}
-    {% if site.social.keybase %}
+    {% if site.social.tags %}
       <li>
-        <a href="https://keybase.io/{{ site.social.keybase }}" rel="noreferrer noopener" target="_blank" title="Keybase">
-          {% include svg-icon.html icon="keybase" %}
+        <a href="{{ 'tags' | relative_url }}" title="Tags">
+          {% include svg-icon.html icon="hashtag" %}
         </a>
       </li>
     {% endif %}
