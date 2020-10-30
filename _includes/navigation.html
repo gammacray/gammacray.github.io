@@ -8,7 +8,7 @@
         </a>
       </li>
     {% endif %}
-    {% if site.hashtag_enabled == tags %}
+    {% if site.hashtag_enabled == true %}
       <li>
         <a href="{{ 'tags' | relative_url }}" title="Tags">
           {% include svg-icon.html icon="tags" %}
