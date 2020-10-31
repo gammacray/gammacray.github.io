@@ -8,7 +8,7 @@ sitemap: false
 
 <div class="tags-page">
   <h1 class="tags-page-header">
-    Tags
+    Navigate Articles by Tag
   </h1>
 
   {% assign my_tags = site.collections | where: "label", "my_tags" | first %}
@@ -32,7 +32,7 @@ sitemap: false
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a class="tag-cloud" href="{{ 'tag/' | relative_url }}{{ tag_slug }}" title="See all posts about {{ upcase_tag_name }} "
       style="font-size: {{ no_of_posts  |  times: 15 | plus: 120  }}%">
-        <span><i>{{ upcase_tag_name }}</i><small> ({{ no_of_posts }}) </small></span>
+        <span><i>{{ upcase_tag_name }}</i><!--<small>({{ no_of_posts }})</small>--></span>
       </a>
     {% endif %}
 
