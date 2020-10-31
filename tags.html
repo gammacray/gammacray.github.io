@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tags"
-description: "Tag cloud from all the posts"
+description: "Tag cloud"
 permalink: /tags
 sitemap: false
 ---
@@ -26,13 +26,13 @@ sitemap: false
           {% assign tag_name = my_tag.name %}
         {% endif %}
       {% endfor %}
-      {% assign upcase_tag_name = tag_name | upcase %}
+      {% assign upcase_tag_name = tag_name | prepend: "#" %}
 
     {% if upcase_tag_slug != "PROJECT" %}
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a class="tag-cloud" href="{{ 'tag/' | relative_url }}{{ tag_slug }}" title="See all posts by {{ upcase_tag_name }} tag"
+      <a class="tag-cloud" href="{{ 'tag/' | relative_url }}{{ tag_slug }}" title="See all posts about {{ upcase_tag_name }} "
       style="font-size: {{ no_of_posts  |  times: 15 | plus: 120  }}%">
-        <span>{{ upcase_tag_name }}<small>({{ no_of_posts }})</small></span>
+        <span><i>{{ upcase_tag_name }}</i><small> ({{ no_of_posts }}) </small></span>
       </a>
     {% endif %}
 
