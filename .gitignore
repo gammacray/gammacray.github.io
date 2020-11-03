@@ -15,3 +15,5 @@ yarn.lock
 .idea
 sync-on-save
 yarn-error.log
+/vendor
+/.bundle
