@@ -8,10 +8,10 @@
         </a>
       </li>
     {% endif %}
-    {% if site.social.hashtag %}
+    {% if site.social.hashtag == true %}
       <li>
         <a href="{{ 'tags' | relative_url }}" title="Tags">
-          {% include svg-icon.html icon="docker" %}
+          {% include svg-icon.html icon="tags" %}
         </a>
       </li>
     {% endif %}
