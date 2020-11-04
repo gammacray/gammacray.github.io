@@ -30,10 +30,12 @@ I could talk about how leaving those communities and ending up on the road was t
 I could talk about how modern oligarchy and capitalism are in the business of serving up destruction and trauma at rock bottom prices - every day. The people from my fucked up hometown (as well as my family of origin) are all victims of generations of toxic consumerist propaganda and messaging. *The people who hurt us are not 'survivors' of the apocalypse even though technically most of them are still alive.*
 
 
-### Politicized by trauma
+### Politicized by trauma and obscene wealth disparity
 
 When I say I'm proud of all the protesters, I wanna be clear that I feel this rebellion against tyranny and authoritarianism in my marrow. I wish I could be out there. Pushing back against it is *needed*. I'm happy that I've lived to see it on this scale, both in the US and worldwide. Having said that...
 
 I'd rather see our society motivated by compassion, empathy, trust, and community. My hope is that the outcome of 2020 is a more cohesive and tolerant north America. 
 
-The polls are closing now. Protests are starting up. Let's see how it goes tonight. Be safe and ungovernable out there kids.
+The polls are closing now. Protests are starting up. Let's see how it goes tonight. I don't actually believe that anything will fundamentally change tonight for the 99% of us who *don't* make [149 thousand dollars per minute](https://www.businessinsider.com/what-amazon-ceo-jeff-bezos-makes-every-day-hour-minute-2018-10?op=1) but we can make life better for ourselves *in other ways* when we organize.
+
+Be safe and ungovernable out there kids.

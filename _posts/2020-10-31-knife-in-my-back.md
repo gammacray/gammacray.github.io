@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If you stick a knife in my back..."
+title: ""
 tags: [mentalhealth, trauma]
 ---
 
