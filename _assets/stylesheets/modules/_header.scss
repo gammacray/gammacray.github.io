@@ -34,8 +34,8 @@
       color: $header-link-color;
       cursor: pointer;
       svg {
-        width: 19px !important;
-        height: 19px !important;
+        width: 19px;
+        height: 19px;
         fill: $header-link-color;
       }
       &:hover svg {
