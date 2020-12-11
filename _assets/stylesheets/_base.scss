@@ -158,3 +158,36 @@ img {
   color: $white;
   background-color: $gray-darkest;
 }
+
+// Contact Page
+// ==============================================================
+
+.contact 
+  
+.contact-links {
+  float: left;
+    padding: 0;
+    margin: 17px 0 0;
+    list-style: none;
+    li {
+      display: flex;
+      margin-left: 15px;
+      vertical-align: middle;
+      &:first-child {
+        margin-left: 0;
+      }
+      a {
+        font-size: 19px;
+        color: $header-link-color;
+        cursor: pointer;
+        svg {
+          width: 21px;
+          height: 21px;
+          fill: $header-link-color;
+        }
+        &:hover svg {
+          fill: $header-link-color-hover;
+        }
+      }
+    }
+  }
