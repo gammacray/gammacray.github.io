@@ -63,12 +63,12 @@ h2 {
 h3 {
   font-size: $base-font-size * 1.11;
   font-weight: 500;
-  margin: 7px;
 }
 
 h4 {
   font-size: $base-font-size * 1.1;
   font-weight: 500;
+  padding-top: 11px;
 }
 
 h5 {
@@ -92,6 +92,9 @@ h6 {
     margin: -9px;
     padding: 9px;
   }
+  h4 {
+  padding-top: 0px;
+}
 }
 
 a {
@@ -188,6 +191,7 @@ img {
           width: 2em;
           height: 2em;
           fill: $header-link-color;
+          margin-top: 7px;
         }
         &:hover svg {
           fill: $header-link-color-hover;
