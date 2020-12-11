@@ -63,6 +63,7 @@ h2 {
 h3 {
   font-size: $base-font-size * 1.11;
   font-weight: 500;
+  margin: 7px;
 }
 
 h4 {
@@ -87,7 +88,9 @@ h6 {
     font-size: $base-font-size * 1.35;
   }
   h3 {
-    font-size: $base-font-size * 1.25;
+    font-size: $base-font-size * 1;
+    margin: -9px;
+    padding: 9px;
   }
 }
 
@@ -167,7 +170,7 @@ img {
 .contact-links {
   float: left;
     padding: 0;
-    margin: 17px 0 0;
+    margin: 19px 3px 7px;
     list-style: none;
     li {
       display: flex;
@@ -178,6 +181,7 @@ img {
       }
       a {
         font-size: 19px;
+        margin: 0px;
         color: $header-link-color;
         cursor: pointer;
         svg {
