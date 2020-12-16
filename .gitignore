@@ -17,3 +17,4 @@ sync-on-save
 yarn-error.log
 /vendor
 /.bundle
+/drafts
