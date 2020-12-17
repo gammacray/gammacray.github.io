@@ -26,21 +26,21 @@ What I'm trying to get at is that resilience is a continuum, a state of being. I
 
 When bad things happen to good people who have the tools to carry on in a positive way, they make it look easy. They often have access to emotional strength, a healthy support system, family and friends. It often *is* possible for them to reason out the options and pick the best one - especially with help!
 
-Most of us trauma kids were taught (directly or not) to react negatively to everything around us. We were often *punished* for trying look at for the positive (or any) option, or seek supportive help. A lot of us grew up isolated and continue to be, and there is no way to out-fact or out-positive our amygdala when it's hijacking our higher brain and emotional state. There's no act of will, say a little prayer, and straighten up and fly right for us.
+Most of us trauma kids were taught (directly or not) to react negatively to everything around us. We were often *punished* for trying look for the positive (or any) option, or seek supportive help. A lot of us grew up isolated and continue to be, and there is no way to out-fact or out-positive our amygdala when it's hijacking our higher brain and emotional state. There's no act of will, say a little prayer, and straighten up and fly right for us.
 
 
 # Quit the mantras
 
 When someone says to me 'look at the bright side' or 'hey you wouldn't be *you* without your past' I wanna fucking punch them in the face. Without my past I wouldn't be a man in my 40's staring down the barrel of a wasted life. That's a fact. It's not 'being negative' to own that, it's a fucking reality for me.
 
-I'd trade most of my past suffering for a healthy mind, dumbass, and so would you.
+I'd trade most of my past suffering for a healthy mind, dumbass, and so would you. *In a heartbeat.*
 
 Having said that, now that I'm 'here' and not 'over there', what can I do? One of the hardest tools to master is acceptance. *This* is one of the key components of resilience (as well as the grieving process) and without it we will not progress no matter how hard we try. Acceptance breaks the chains of denial and anger, helps us acknowledge that our life actually *does* suck, but that we can move on from the worst of it if we want to.
 
 
 # Get better at feeling shitty
 
-The heart of this piece is some of us just actually suck at feeling okay, and comparing ourselves to people who don't is a self-hating circlejerk. Fuck that shit. It's okay to have battle scars. It's okay to feel ugly and angry and sad. In fact to *really* get to a better place for a lot of us we need to *improve* our ability to feel like shit instead of fucking denying ourselves all the time. So yeah, we need to feel *more* like shit. Good times.
+The heart of this piece is some of us just actually suck at feeling okay, and comparing ourselves to people who don't is a self-hating circlejerk. Fuck that shit. It's okay to have battle scars. It's okay to feel ugly and angry and sad. In fact to *really* get to a better place a lot of us need to *improve* our ability to feel like shit instead of fucking denying ourselves all the time. So yeah, we need to feel *more* like shit. Good times.
 
 >You don’t build psychological resilience by feeling good all the time. You build psychological resilience by getting better at feeling bad. 
 
@@ -64,3 +64,5 @@ I don't wanna come off all negative here (jk I kinda do) but when people referen
 Parting notes; Life crushes us all into dust. Some of us don't find a way to embrace our suffering no matter how hard we try, and then we run out of time and die. And then the supermassive black hole at the center of our galaxy will collide with the next one over in a few billion years and none of this will have mattered anyway. 
 
 ### The end.
+
+<br>
