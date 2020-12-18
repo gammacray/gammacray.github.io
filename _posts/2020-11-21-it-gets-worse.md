@@ -18,7 +18,7 @@ We need to be careful not to label people as 'lacking resilience' in ways that s
 
 # Inner strength doesn't exist in a vacuum
 
-Resilience isn't an isolated quality, all it's own. It's wrapped up in confidence, self-esteem, a sense of purpose, good humor, good health (on some level), and secure relationship with *at least* one supportive person. For a lot of us dealing with cptsd, *none of these boxes are ticked*. Often for decades at a time, and often since childhood. Us trauma kids weren't taught to thrive. In fact we were often punished for even trying to.
+Resilience isn't an isolated quality, all its own. It's wrapped up in confidence, self-esteem, a sense of purpose, good humor, good health (on some level), and secure relationship with *at least* one supportive person. For a lot of us dealing with cptsd, *none of these boxes are ticked*. Often for decades at a time, and often since childhood. Us trauma kids weren't taught to thrive. In fact we were often punished for even trying to.
 
 Resilience is not some magical skill that we stumble upon at the right time in life like a loot box. It's not something we can get from a book, a weekend retreat, or a college course. It's something we learn over time, it's modeled for us, ideally from our family or peers as young people, but *hopefully* by someone else in the community later in life if we missed out on that as kids. Honestly, some of us don't pick it up easily and we're fucking sick of feeling like it's our fault that we struggle to find it without guidance and help - because we may not know *how to ask for help to begin with*.
 
