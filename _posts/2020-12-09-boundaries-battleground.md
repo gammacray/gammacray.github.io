@@ -38,9 +38,9 @@ It takes effort and skill to parse which shit belongs to us and which don't, but
 
 Important to note that having good boundaries ain't gonna solve the PTSD trauma-brain thing, but they *are* one more good coping strategy that everyone can have. With good boundaries we don't fall into as many toxic relationships or situations, thus we don't re-traumatize ourselves or re-enact past shit so often. When our relationships improve (and when we know which ones to ditch), we have a lot more energy to put towards unpacking the other stuff we need to work on, and we'll *probably* make some healthier allies to help with the slog.
 
-Boundaries are one of my favorite topics to think (and write) about in the context of coming from a shitty childhood, so I'm going to be posting a lot more on this topic over the coming months. Personally I believe there should be a whole fucking curriculum on this stuff, starting at around 6th grade. A lot of us make it into our 30's, 40's, even 50's not having a damn clue about this stuff which is crazy.
+Boundaries are among of my favorite topics to think (and write) about in the context of coming from a shitty childhood, so I'm going to be posting a lot more on this stuff over the coming months. Personally I believe there should be a whole fucking curriculum on this area, starting at around 6th grade. A lot of us make it into our 30's, 40's, even 50's not having a damn clue about this, which is crazy.
 
-I'll be writing whole posts about specific related things that interest me, such as;
+I'll be writing whole posts about boundary related things that interest me, such as;
 
 * weaponized boundaries
 * guilt trips
