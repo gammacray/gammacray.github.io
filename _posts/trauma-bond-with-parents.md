@@ -1,5 +1,5 @@
 
-# plenty to explore here
+# When parents *trauma bond* with their kids
 
 * Ken was beaten with fenceposts and reminded me all the time
 * Mom was def neglected emotionally for 8 kids and poverty

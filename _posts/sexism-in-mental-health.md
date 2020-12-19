@@ -16,3 +16,5 @@ Even as recently as the past two years, applying for disability and starting the
 *Nobody* told me about things like the Crime Victim's Assistance Program in my region. *Nobody* offered to help me find funding for more intensive modes of therapy not available in the public system. I want to re-iterate that if I were a woman, I doubt very much that 25 people would've heard me disclose something like that and just shrug and go 'huh'. 
 
 There's a lot of change happening lately around all this, but there's a lot more to go. 
+
+### Jess brought this up as well...
