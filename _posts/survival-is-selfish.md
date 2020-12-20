@@ -2,6 +2,9 @@
 
 # Survival Is Selfish
 
+
+Let's differentiate immediately between someone walking down the street who finds a lost wallet full of money - who has their own wallet full of money in their back pocket.... Obviously this person is not in a survival situation in the context of money. They'll turn the whole thing in, happily. Same scenario but I haven't eaten in a couple days, I'm on the street living out of a backpack - I reason that the person won't miss 50 bucks but will be glad to have their ID and credit cards back. (And let's parse this further to exclude the person who takes it all, realizing that there's a good market for stolen credit cards.......... I'm not one of those people and I doubt most people reading this are either).
+
 I wanna be clear, I'm *not* talking about survival on a community level where the village comes together to make sure everyone's more or less taken care of. In this piece I'm talking about the traumatized individual kid. Those of us who were abused, neglected, lost, and fucked with who ultimately ended up fully isolated from community and totally unable to connect with it.
 
 When we spend our youth (and often adulthood) literally scraping by, surviving in it's nastiest sense, without real connection or relationship to help us along or smooth the hardest parts - *we don't fucking think about anyone else*.

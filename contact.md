@@ -75,3 +75,6 @@ description: "Please feel free to contact me, I'm nice."
 </div>
 <br>
 <br>
+<h1>Or leave a comment below! Be good!</h1>
+<script defer src="https://commento-onepathleft.herokuapp.com/js/commento.js"></script>
+<div id="commento"></div>

@@ -51,7 +51,7 @@ I'll be writing whole posts about boundary related things that interest me, such
 * how to learn boundaries by watching Rick & Morty
 * how to learn boundaries by watching The Office
 * how to write long lists about nothing
-* how to take a *bit* too far
+* how to take a joke/bit too far
 * how to *really* stretch it out
 
 That's it. That's the post. Thanks for reading, and as always please feel free to contact me for any reason at all (unless you're one of my stalkers from the past, then you can fuck right off. See what I did there? I just threw up a boundary!)

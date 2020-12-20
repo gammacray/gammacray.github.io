@@ -1,6 +1,9 @@
 
 # Cutting Carrots - Cutting Class - Cutting Myself
 
+
+My mom literally cowered in fear of her life when I was 12, for wanting to help her make supper. BREAKING NEWS - that was fucking traumatizing *for me*. I gotta fucking go there.
+
 I don't know if this one's gonna fly, but it might be neat to run this memory through and try to put it down. 
 
 I vaguely remember this as the time I was 12 or 13, just after they started accusing me of being a hard drug addict and (not so) secretly fearing that I was a satanist murderer. 
