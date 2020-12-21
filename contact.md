@@ -15,7 +15,7 @@ description: "Please feel free to contact me, I'm nice."
 <ul class="contact-links">
 <p>
       <li>
-        <a href="mailto:onepathleft@protonmail.com" title="Email">
+        <a href="mailto:gammacray@onepathleft.com" title="Email">
           <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
           	 viewBox="0 0 1792 1792">
     <path d="M1792 710v794q0 66 -47 113t-113 47h-1472q-66 0 -113 -47t-47 -113v-794q44 49 101 87q362 246 497 345q57 42 92.5 65.5t94.5 48t110 24.5h1h1q51 0 110 -24.5t94.5 -48t92.5 -65.5q170 -123 498 -345q57 -39 100 -87zM1792 416q0 79 -49 151t-122 123q-376 261 -468 325q-10 7 -42.5 30.5t-54 38t-52 32.5t-57.5 27t-50 9h-1h-1q-23 0 -50 -9t-57.5 -27t-52 -32.5t-54 -38t-42.5 -30.5q-91 -64 -262 -182.5t-205 -142.5q-62 -42 -117 -115.5t-55 -136.5q0 -78 41.5 -130t118.5 -52h1472q65 0 112.5 47t47.5 113z"></path>
@@ -75,6 +75,7 @@ description: "Please feel free to contact me, I'm nice."
 </div>
 <br>
 <br>
-<h1>Or leave a comment below! Be good!</h1>
+<h1>Or leave a comment below - Be kind!</h1>
+<br>
 <script defer src="https://commento-onepathleft.herokuapp.com/js/commento.js"></script>
 <div id="commento"></div>
