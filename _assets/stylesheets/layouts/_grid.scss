@@ -102,7 +102,7 @@
   div#bmc-wbtn {
     width: 55px !important;
     height: 55px !important;
-    right: 7% !important;
+    right: 5% !important;
     bottom: 3% !important;
   }
 }
@@ -113,7 +113,7 @@
 div#bmc-wbtn {
   width: 55px !important;
   height: 55px !important;
-  right: 19% !important;
+  right: 13% !important;
   bottom: 3% !important;
 }
 }
@@ -124,7 +124,18 @@ div#bmc-wbtn {
 div#bmc-wbtn {
   width: 55px !important;
   height: 55px !important;
-  right: 7% !important;
+  right: 5% !important;
+  bottom: 3% !important;
+}
+}
+@media all and (max-width: 1620px) {
+.grid-cell {
+  @include responsive-grid-generator();
+}
+div#bmc-wbtn {
+  width: 55px !important;
+  height: 55px !important;
+  right: 19% !important;
   bottom: 3% !important;
 }
 }
