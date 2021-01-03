@@ -11,7 +11,7 @@ I'd like to explore the downside of 'against all odds' success stories we're oft
 
 By that I mean it all looks great on paper, but can I hold it in my hands? Whom do I contact to procure this vital addition to my life? Does it have a warranty? When does it usually go on sale? Do I mean to suggest that resilience is bad, or that we shouldn't seek it out? No, not at all. I know that it's a wonderful thing and it can be had, and we all need some of it. Okay but is it tangible? How do we *do* it?
 
-Personally I think of it like any other valuable such as money, community, or even love; We tend to feel better with an abundance of it, but these are *not* things that all of us experience overflow of. Some of us live with scarcity and can't find our way out of it. Plot twist: most of us won't be billionaires either.
+Personally I think of it like any other valuable such as money, community, or even love; We tend to feel better with an abundance of it, but these are *not* things that all of us experience overflow of. Some of us live with scarcity and can't find our way out of it. Plot twist: most of us won't be billionaires either. Some of us won't even be *thousandaires*.
 
 We need to be careful not to label people as 'lacking resilience' in ways that stigmatize or punch down. It can get tricky if we start judging or comparing ourselves (or others) against this metric. 
 
