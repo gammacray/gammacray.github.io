@@ -106,7 +106,7 @@
     bottom: 3% !important;
   }
 }
-@media all and (max-width: 555px) {
+@include breakpoint(medium) {
 div#bmc-wbtn {
   width: 55px !important;
   height: 55px !important;
@@ -114,11 +114,11 @@ div#bmc-wbtn {
   bottom: 3% !important;
 }
 }
-@media all and (max-width: 1024px) {
+@include breakpoint(large) {
 div#bmc-wbtn {
   width: 55px !important;
   height: 55px !important;
-  right: 21% !important;
+  right: 3% !important;
   bottom: 3% !important;
 }
 }
