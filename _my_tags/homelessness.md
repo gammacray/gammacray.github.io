@@ -1,4 +1,0 @@
----
-slug: homelessness
-name: homelessness
----

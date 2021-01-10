@@ -1,4 +1,0 @@
----
-slug: addiction
-name: addiction
----

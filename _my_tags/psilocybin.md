@@ -1,4 +1,0 @@
----
-slug: psilocybin
-name: psilocybin
----

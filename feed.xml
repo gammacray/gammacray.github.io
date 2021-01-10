@@ -1,20 +1,66 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>Gamma Cray</title>
+    <description></description>
+    <link>onepathleft.com</link>
+    <atom:link href="onepathleft.com/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>Emotional Flashbacks Suck</title>
+        <description>Reflections on the hardest month I've had this year.</description>
+        <pubDate>Sat, 12 Dec 2020 00:00:00 -0800</pubDate>
+        <link>onepathleft.com/posts/emotionalflashbacks</link>
+        <guid isPermaLink="true">onepathleft.com/posts/emotionalflashbacks</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>My Boundaries Can Beat Up Your Boundaries</title>
+        <description></description>
+        <pubDate>Wed, 09 Dec 2020 00:00:00 -0800</pubDate>
+        <link>onepathleft.com/posts/boundaries-battleground</link>
+        <guid isPermaLink="true">onepathleft.com/posts/boundaries-battleground</guid>
+      </item>
+    
+      <item>
+        <title>Resilience - It Gets Worse Before It Gets Worse</title>
+        <description></description>
+        <pubDate>Sat, 21 Nov 2020 00:00:00 -0800</pubDate>
+        <link>onepathleft.com/posts/it-gets-worse</link>
+        <guid isPermaLink="true">onepathleft.com/posts/it-gets-worse</guid>
+      </item>
+    
+      <item>
+        <title>Some Words on Advocacy</title>
+        <description></description>
+        <pubDate>Sat, 07 Nov 2020 00:00:00 -0800</pubDate>
+        <link>onepathleft.com/posts/advocacy</link>
+        <guid isPermaLink="true">onepathleft.com/posts/advocacy</guid>
+      </item>
+    
+      <item>
+        <title>Music for a coup attempt</title>
+        <description>How politics can traumatize, motivate, and radicalize.</description>
+        <pubDate>Tue, 03 Nov 2020 00:00:00 -0800</pubDate>
+        <link>onepathleft.com/posts/dnbforprez</link>
+        <guid isPermaLink="true">onepathleft.com/posts/dnbforprez</guid>
+      </item>
+    
+      <item>
+        <title>Drop The Beat - Or The Coffee Cup Whatever</title>
+        <description></description>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 -0700</pubDate>
+        <link>onepathleft.com/posts/about-to-meltdown</link>
+        <guid isPermaLink="true">onepathleft.com/posts/about-to-meltdown</guid>
+      </item>
+    
+      <item>
+        <title>I HEART Lockdown!</title>
+        <description></description>
+        <pubDate>Sat, 21 Mar 2020 00:00:00 -0700</pubDate>
+        <link>onepathleft.com/posts/i-love-lockdown</link>
+        <guid isPermaLink="true">onepathleft.com/posts/i-love-lockdown</guid>
+      </item>
+    
   </channel>
 </rss>

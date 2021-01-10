@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Gamma Cray | Resilience - It Gets Worse Before It Gets Worse</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="Resilience - It Gets Worse Before It Gets Worse">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="onepathleft.com/posts/it-gets-worse">
+  <meta property="og:description" content="">
+  <meta property="og:site_name" content="Gamma Cray">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="onepathleft.com/posts/it-gets-worse">
+  <meta name="twitter:title" content="Resilience - It Gets Worse Before It Gets Worse">
+  <meta name="twitter:description" content="">
+
+  
+    <meta property="og:image" content="onepathleft.com/assets/og-image-ee46bbc61b334e821e81534b1fd43f3fee6f020ec174b3c2114445695fd48c01.jpg">
+    <meta name="twitter:image" content="onepathleft.com/assets/og-image-ee46bbc61b334e821e81534b1fd43f3fee6f020ec174b3c2114445695fd48c01.jpg">
+  
+
+  <link href="onepathleft.com/feed.xml" type="application/rss+xml" rel="alternate" title="Gamma Cray Last 10 blog posts" />
+
+  
+    <link rel="stylesheet" type="text/css" href="/assets/fonts-85dab368d056b5d66418fbfd7e55a89f34f644ee811c8218c81017204426121b.css">
+  
+
+  
+
+    
+      <link rel="icon" type="image/x-icon" href="/assets/favicon-light-a98c41efc5ed9fcc06ac664c9e2f7a9b3c3b2e0a52357d221fe382f6f4abc8fc.ico">
+      <link rel="apple-touch-icon" href="/assets/apple-touch-icon-light-87d1f2a3a19b1500e5c1626a0492025ca5f7f97d24540dc5900288e92112925a.png">
+      <link rel="stylesheet" type="text/css" href="/assets/light-e1a1fd03657b069afbd529f08716566699b37384e8e6762514b4c87b30839d04.css">
+    
+
+  
+
+</head>
+
+<body>
+  <main>
+    <div class="grid grid-centered">
+      <div class="grid-cell">
+        <nav class="header-nav ">
+  <a href="/" class="header-logo" title="Gamma Cray">Gamma Cray</a>
+  <ul class="header-links">
+    
+      <li>
+        <a href="/tags" title="Navigate by tag">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+          	 viewBox="0 0 555 555">
+          <path d="M64.333,490h58.401l33.878-137.69h122.259L245.39,490h58.401l33.878-137.69h119.92v-48.162h-108.24l29.2-117.324h79.04
+          	v-48.162H390.23L424.108,0H365.31l-33.878,138.661H208.79L242.668,0h-58.415l-33.864,138.661H32.411v48.162h106.298l-28.818,117.324
+          	h-77.48v48.162h65.8L64.333,490z M197.11,186.824h122.642l-29.2,117.324H168.292L197.11,186.824z"/>
+          </svg>
+        </a>
+      </li>
+    
+    
+      <li>
+        <a href="/about" title="About me">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+          	 viewBox="0 0 1536 1792">
+              <path d="M576 1536l96 -448l-96 -128l-128 -64zM832 1536l128 -640l-128 64l-96 128zM992 526q-2 -4 -4 -6q-10 -8 -96 -8q-70 0 -167 19q-7 2 -21 2t-21 -2q-97 -19 -167 -19q-86 0 -96 8q-2 2 -4 6q2 18 4 27q2 3 7.5 6.5t7.5 10.5q2 4 7.5 20.5t7 20.5t7.5 17t8.5 17t9 14t12 13.5t14 9.5t17.5 8t20.5 4t24.5 2q36 0 59 -12.5t32.5 -30t14.5 -34.5t11.5 -29.5t17.5 -12.5h12q11 0 17.5 12.5t11.5 29.5t14.5 34.5t32.5 30t59 12.5q13 0 24.5 -2t20.5 -4t17.5 -8t14 -9.5t12 -13.5t9 -14t8.5 -17t7.5 -17t7 -20.5t7.5 -20.5q2 -7 7.5 -10.5t7.5 -6.5q2 -9 4 -27zM1408 1405q0 121 -73 190t-194 69h-874q-121 0 -194 -69t-73 -190q0 -61 4.5 -118t19 -125.5t37.5 -123.5t63.5 -103.5t93.5 -74.5l-90 -220h214q-22 -64 -22 -128q0 -12 2 -32q-194 -40 -194 -96q0 -57 210 -99q17 -62 51.5 -134t70.5 -114q32 -37 76 -37q30 0 84 31t84 31t84 -31t84 -31q44 0 76 37q36 42 70.5 114t51.5 134q210 42 210 99q0 56 -194 96q7 81 -20 160h214l-82 225q63 33 107.5 96.5t65.5 143.5t29 151.5t8 148.5z"></path>
+          </svg>
+        </a>
+      </li>
+      <li>
+        <a href="/contact" title="Contact">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+          	 viewBox="0 0 1536 1792">
+          <path d="M972 775q0 -108 -53.5 -169t-147.5 -61q-63 0 -124 30.5t-110 84.5t-79.5 137t-30.5 180q0 112 53.5 173t150.5 61q96 0 176 -66.5t122.5 -166t42.5 -203.5zM1536 896q0 111 -37 197t-98.5 135t-131.5 74.5t-145 27.5q-6 0 -15.5 0.5t-16.5 0.5q-95 0 -142 -53q-28 -33 -33 -83q-52 66 -131.5 110t-173.5 44q-161 0 -249.5 -95.5t-88.5 -269.5q0 -157 66 -290t179 -210.5t246 -77.5q87 0 155 35.5t106 99.5l2 -19l11 -56q1 -6 5.5 -12t9.5 -6h118q5 0 13 11q5 5 3 16l-120 614q-5 24 -5 48q0 39 12.5 52t44.5 13q28 -1 57 -5.5t73 -24t77 -50t57 -89.5t24 -137q0 -292 -174 -466t-466 -174q-130 0 -248.5 51t-204 136.5t-136.5 204t-51 248.5t51 248.5t136.5 204t204 136.5t248.5 51q228 0 405 -144q11 -9 24 -8t21 12l41 49q8 12 7 24q-2 13 -12 22q-102 83 -227.5 128t-258.5 45q-156 0 -298 -61t-245 -164t-164 -245t-61 -298t61 -298t164 -245t245 -164t298 -61q344 0 556 212t212 556z"></path>
+          </svg>
+        </a>
+      </li>
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ul>
+</nav>
+
+
+
+        <article class="article ">
+          <header class="article-header">
+            <h1>Resilience - It Gets Worse Before It Gets Worse</h1>
+            <p></p>
+            <div class="article-list-footer">
+  <span class="article-list-date">
+    November 21, 2020
+  </span>
+  <span class="article-list-divider">-</span>
+  <span class="article-list-minutes">
+    
+    
+      7 minute read
+    
+  </span>
+  <span class="article-list-divider">-</span>
+  <div class="article-list-tags">
+    
+      
+      <a href="/tag/trauma" title="See all posts with tag 'trauma'">#trauma</a>
+    
+      
+      <a href="/tag/mentalhealth" title="See all posts with tag 'mentalhealth'">#mentalhealth</a>
+    
+      
+      <a href="/tag/cptsd" title="See all posts with tag 'cptsd'">#cptsd</a>
+    
+  </div>
+</div>
+          </header>
+
+          <div class="article-content">
+            <p>I’d like to explore the downside of ‘against all odds’ success stories we’re often bombarded with. The premise is that resilience is possible for anyone to achieve, like a level-up or cheat code for a difficult life. While it’s true that we all <em>can</em> experience strength and courage, it’s important to realize that not all of us <em>do</em>. Sometimes stuff actually does suck. And if we’re not mindful of that, it can take us the fuck down.</p>
+
+<h1 id="thriving-aint-an-intellectual-exercise">Thriving ain’t an intellectual exercise</h1>
+
+<p>By that I mean it all looks great on paper, but can I hold it in my hands? Whom do I contact to procure this vital addition to my life? Does it have a warranty? When does it usually go on sale? Do I mean to suggest that resilience is bad, or that we shouldn’t seek it out? No, not at all. I know that it’s a wonderful thing and it can be had, and we all need some of it. Okay but is it tangible? How do we <em>do</em> it?</p>
+
+<p>Personally I think of it like any other valuable such as money, community, or even love; We tend to feel better with an abundance of it, but these are <em>not</em> things that all of us experience overflow of. Some of us live with scarcity and can’t find our way out of it. Plot twist: most of us won’t be billionaires either. Some of us won’t even be <em>thousandaires</em>.</p>
+
+<p>We need to be careful not to label people as ‘lacking resilience’ in ways that stigmatize or punch down. It can get tricky if we start judging or comparing ourselves (or others) against this metric.</p>
+
+<h1 id="inner-strength-doesnt-exist-in-a-vacuum">Inner strength doesn’t exist in a vacuum</h1>
+
+<p>Resilience isn’t an isolated quality, all its own. It’s wrapped up in confidence, self-esteem, a sense of purpose, good humor, good health (on some level), and secure relationship with <em>at least</em> one supportive person. For a lot of us dealing with cptsd, <em>none of these boxes are ticked</em>. Often for decades at a time, and often since childhood. Us trauma kids weren’t taught to thrive. In fact we were often punished for even trying to.</p>
+
+<p>Resilience is not some magical skill that we stumble upon at the right time in life like a loot box. It’s not something we can get from a book, a weekend retreat, or a college course. It’s something we learn over time, it’s modeled for us, ideally from our family or peers as young people, but <em>hopefully</em> by someone else in the community later in life if we missed out on that as kids. Honestly, some of us don’t pick it up easily and we’re fucking sick of feeling like it’s our fault that we struggle to find it without guidance and help - because we may not know <em>how to ask for help to begin with</em>.</p>
+
+<p>What I’m trying to get at is that resilience is a continuum, a state of being. It’s correlated with recovery and wellness, and if we’re not careful we can end up dwelling on <em>the lack of it</em> within ourselves or others, and that can hurt us a lot.</p>
+
+<p>When bad things happen to good people who have the tools to carry on in a positive way, they make it look easy. They often have access to emotional strength, a healthy support system, family and friends. It often <em>is</em> possible for them to reason out the options and pick the best one - especially with help!</p>
+
+<p>Most of us trauma kids were taught (directly or not) to react negatively to everything around us. We were often <em>punished</em> for trying look for the positive (or any) option, or seek supportive help. A lot of us grew up isolated and continue to be, and there is no way to out-fact or out-positive our amygdala when it’s hijacking our higher brain and emotional state. There’s no act of will, say a little prayer, and straighten up and fly right for us.</p>
+
+<h1 id="quit-the-mantras">Quit the mantras</h1>
+
+<p>When someone says to me ‘look at the bright side’ or ‘hey you wouldn’t be <em>you</em> without your past’ I wanna fucking punch them in the face. Without my past I wouldn’t be a man in my 40’s staring down the barrel of a wasted life. That’s a fact. It’s not ‘being negative’ to own that, it’s a fucking reality for me.</p>
+
+<p>I’d trade most of my past suffering for a healthy mind, dumbass, and so would you. <em>In a heartbeat.</em></p>
+
+<p>Having said that, now that I’m ‘here’ and not ‘over there’, what can I do? One of the hardest tools to master is acceptance. <em>This</em> is one of the key components of resilience (as well as the grieving process) and without it we will not progress no matter how hard we try. Acceptance breaks the chains of denial and anger, helps us acknowledge that our life actually <em>does</em> suck, but that we can move on from the worst of it if we want to.</p>
+
+<h1 id="get-better-at-feeling-shitty">Get better at feeling shitty</h1>
+
+<p>The heart of this piece is some of us just actually suck at feeling okay, and comparing ourselves to people who don’t is a self-hating circlejerk. Fuck that shit. It’s okay to have battle scars. It’s okay to feel ugly and angry and sad. In fact to <em>really</em> get to a better place a lot of us need to <em>improve</em> our ability to feel like shit instead of fucking denying ourselves all the time. So yeah, we need to feel <em>more</em> like shit. Good times.</p>
+
+<blockquote>
+  <p>You don’t build psychological resilience by feeling good all the time. You build psychological resilience by getting better at feeling bad.</p>
+</blockquote>
+
+<p>I’ve been learning the tools of ‘wellness’ for going on 15 years at this point and I still suck, often. I quit hard drugs nearly a decade ago. I did (and ditched) 12 steps. I studied meditation intensively for 4 straight years, full-time. I’ve been in therapy for 2 years. I’ve read <em>dozens</em> of books on recovering from abuse, addiction, etc. Am I saying none of this has had an effect on my well-being? No, all of these things have improved my life. But have the above <em>made me a more resilient person</em>? The answer is - depends on the day!</p>
+
+<p>I want people to understand that complex trauma is like being <em>emotionally</em> paralyzed from the waist down. We often lack use of our social and spiritual legs, which is why so many of us rely on <em>crutches</em>. Resilience doesn’t come from some dollar store ‘Things Get Better!’ inspirational cat poster on the wall - it builds out from learning how not to hate the crutches we rely on, and realizing that we can upgrade those crutches to newer and better (healthier) ones to support ourselves with. We can have some really dope hot pink titanium crutches and shit, we don’t have to feel stuck with the busted ass splintered wood ones. Will we ever ‘walk’ without them? <em>Maybe…</em> but we might not.</p>
+
+<h1 id="i-miss-the-comfort-in-being-sad">I miss the comfort in being sad</h1>
+
+<p>Hate to break it to you but in a lot of our cases, things <em>don’t</em> get better. Sometimes things get worse, and then get <em>fucking</em> worse, for years and decades straight. It can be incredibly insulting when someone comes up to us and says ‘Don’t worry, silver lining homie!’ It’s doubly insulting when we put in the effort to heal and life responds by getting more painful, less manageable. For a lot of us it’s not about <em>not accepting</em> this process, it’s about the fact that we <em>do</em> accept that shit keeps getting darker. It sucks! It’s okay to acknowledge that it sucks!</p>
+
+<p>There’s an old parable about a wealthy guy who walks up to a poor person begging on the street and says ‘Oh my, you don’t have shoes! You must be miserable!’ and the poor dude points down the way at a man missing his legs and says ‘At least I have feet.’ This story used to give me strength, until my heart and liver started failing and the teeth began rotting out of my head. I guess I could say ‘Sure I have an emotional core of rotting resentment and soon I won’t be able to chew food, but least I have skin.’</p>
+
+<p>I don’t wanna come off all negative here (jk I kinda do) but when people reference those cherry picked book-of-the-month success stories as though I could <em>be</em> that person, as though there aren’t <em>millions</em> of us who crash and burn and die miserable - referencing that one person who’s ‘an inspiration’ makes me wanna scream. I get it Oprah! Everyone’s better at healing than me! Thanks I hadn’t got the memo! Go spend another 20 thousand dollars on your eyebrows and FUCK OFF!</p>
+
+<blockquote>
+  <p>“Things could be worse!” - the optimist<br />
+“Things could be better!” - the suffering optimist<br />
+“Fuck this shit I’m going back to bed.” - everyone else</p>
+</blockquote>
+
+<p>Parting notes; Life crushes us all into dust. Some of us don’t find a way to embrace our suffering no matter how hard we try, and then we run out of time and die. And then the supermassive black hole at the center of our galaxy will collide with the next one over in a few billion years and none of this will have mattered anyway.</p>
+
+<h3 id="the-end">The end.</h3>
+
+<p><br /></p>
+
+          </div>
+          <div class="article-share">
+            
+            
+            <a href="https://twitter.com/intent/tweet?text=Resilience+-+It+Gets+Worse+Before+It+Gets+Worse%20-%20onepathleft.com/posts/it-gets-worse" title="Share on Twitter" rel="noreferrer noopener" target="_blank">
+              <svg viewBox="0 0 512 512"><path d="M492 109.5c-17.4 7.7-36 12.9-55.6 15.3 20-12 35.4-31 42.6-53.6 -18.7 11.1-39.4 19.2-61.5 23.5C399.8 75.8 374.6 64 346.8 64c-53.5 0-96.8 43.4-96.8 96.9 0 7.6 0.8 15 2.5 22.1 -80.5-4-151.9-42.6-199.6-101.3 -8.3 14.3-13.1 31-13.1 48.7 0 33.6 17.2 63.3 43.2 80.7C67 210.7 52 206.3 39 199c0 0.4 0 0.8 0 1.2 0 47 33.4 86.1 77.7 95 -8.1 2.2-16.7 3.4-25.5 3.4 -6.2 0-12.3-0.6-18.2-1.8 12.3 38.5 48.1 66.5 90.5 67.3 -33.1 26-74.9 41.5-120.3 41.5 -7.8 0-15.5-0.5-23.1-1.4C62.8 432 113.7 448 168.3 448 346.6 448 444 300.3 444 172.2c0-4.2-0.1-8.4-0.3-12.5C462.6 146 479 129 492 109.5z"/></svg>
+            </a>
+            <!--<a href="https://www.facebook.com/sharer/sharer.php?u=onepathleft.com/posts/it-gets-worse" title="Share on Facebook" rel="noreferrer noopener" target="_blank">
+              <svg viewBox="0 0 512 512"><path d="M288 192v-38.1c0-17.2 3.8-25.9 30.5-25.9H352V64h-55.9c-68.5 0-91.1 31.4-91.1 85.3V192h-45v64h45v192h83V256h56.4l7.6-64H288z"/></svg>
+            </a>-->
+          </div>
+<br>
+
+<script defer src="https://commento-onepathleft.herokuapp.com/js/commento.js"></script>
+<div id="commento"></div>
+
+          
+        </article>
+        <footer class="footer ">
+  <p>
+  <i>🄯 2021 Gamma Cray - Free to share, please credit me for the clout.</i> 
+</p>
+<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="gammacray" data-description="Support me!" data-message="Wanna buy me a coffee?" data-color="#FFDD00" data-position="Right" data-x_margin="15" data-y_margin="15"></script>
+</footer>
+
+      </div>
+    </div>
+  </main>
+  
+
+<script src="/assets/vendor-264bd9d3c6e8311cf2d4a973b1becbfbe5cfd203214099cb48ff8ad5ae0734cd.js" type="text/javascript"></script>
+
+
+
+
+
+<script src="/assets/application-cfde13ac81ddaf4351b2e739603e2baf688d0fcc9aba613fe62bbb1c7b037fb9.js" type="text/javascript"></script>
+
+
+<script data-goatcounter="https://53195.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

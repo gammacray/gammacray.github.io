@@ -1,4 +1,0 @@
----
-slug: cptsd
-name: cptsd
----

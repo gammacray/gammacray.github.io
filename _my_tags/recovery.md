@@ -1,4 +1,0 @@
----
-slug: recovery
-name: recovery
----
